@@ -28,7 +28,7 @@ The Financial Assistance Management System allows system administrators to view,
 - **API Documentation**: Integrated Swagger UI for API documentation.
 
 ## Technologies Used
-- **NestJS**: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
+- **NestJS**: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications. Chose Nest over express due to first class typescript support and also Nest encouraging a modular architecture by default, making it easier to manage and scale. It is also opionated 
 - **TypeScript**: A strongly typed programming language that builds on JavaScript.
 - **TypeORM**: An ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript.
 - **PostgreSQL**: A powerful, open-source object-relational database system.
